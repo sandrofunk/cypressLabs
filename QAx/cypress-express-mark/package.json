@@ -6,6 +6,6 @@
   "author": "Sandro Gonçales Funk",
   "license": "MIT",
   "devDependencies": {
-    "cypress": "^14.1.0"
+    "cypress": "12.2.0"
   }
 }
