@@ -8,6 +8,8 @@ describe('tasks', ()=> {
         cy.get('input[placeholder="Add a new Task"]')
             .type("Ler um livro")
 
+        cy.get('._listButtonNewTask_1y0mp_40')
+
     })
 
 })
