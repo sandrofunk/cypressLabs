@@ -1,5 +1,3 @@
-Claro! Abaixo está um modelo de README que você pode usar para documentar a estrutura do seu projeto com as informações e comandos que você forneceu.
-
 ```markdown
 # Projeto QAx/cypress-express-mark
 
@@ -107,8 +105,3 @@ Abra seu navegador e acesse a aplicação em: [http://localhost:3000](http://loc
 Sinta-se à vontade para contribuir com este projeto! Crie um fork, faça mudanças e envie um pull request.
 
 ## Licença
-
-
-```
-
-Você pode personalizar ainda mais este README com informações específicas sobre o projeto, como funcionalidades, como contribuir, e qualquer outra informação relevante.
